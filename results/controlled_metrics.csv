@@ -1,0 +1,4 @@
+﻿mode,repeat,n_with_gold,n_correct_claims,n_false_claims,accuracy_pct,error_detection_recall_pct,false_acceptance_rate_pct,false_rejection_rate_pct,abstention_pct,technical_failures
+deepseek_closed,1,40,20,20,90.0,95.0,0.0,5.0,7.5,0
+gemini_closed,1,40,20,20,92.5,100.0,0.0,5.0,5.0,0
+gemini_reference,1,40,20,20,100.0,100.0,0.0,0.0,0.0,0

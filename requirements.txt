@@ -1,0 +1,3 @@
+# The runner itself uses only the Python standard library.
+# Optional charts for `python study.py report`:
+matplotlib>=3.7
